@@ -1,2 +1,2 @@
-# dropthenon.gethub.io
+# dropthenon.github.io
 My personal portfolio page
